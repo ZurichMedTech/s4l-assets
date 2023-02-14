@@ -1,17 +1,7 @@
 # Changelog
 
-## [1.0.0] - 2022-11-29
-
-### Fixed
+## [1.0.106] - 2022-02-15
 
 ### Added
 
-### Removed
-
-### Changed
-
----
-
-<!-- Add links here -->
-
-[1.0.0]: https://github.com/ZurichMedTech/s4l-assets
+- First public available version of s4l lite
