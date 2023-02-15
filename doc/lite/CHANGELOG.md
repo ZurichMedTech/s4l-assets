@@ -4,4 +4,4 @@
 
 ### Added
 
-- First public available version of s4l lite
+- First public available version of _S4L<sup>lite</sup>_
