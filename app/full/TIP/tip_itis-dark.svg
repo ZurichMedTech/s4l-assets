@@ -81,58 +81,56 @@
         </filter>
     </defs>
     <g id="Maintenance-TIP" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="FULL-SCREEN---1366x768-(11-inch-2015)" transform="translate(-551, -437)">
-            <g id="tip_itis-white" transform="translate(559.7249, 447.35)">
-                <g id="Logo" transform="translate(0, -0)">
-                    <g id="Text" transform="translate(40.9634, 69.8832)" fill-rule="nonzero">
-                        <g id="Path">
-                            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
-                            <use fill-opacity="0.87" fill="#000000" xlink:href="#path-1"></use>
-                        </g>
-                        <g id="Path">
-                            <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
-                            <use fill-opacity="0.87" fill="#000000" xlink:href="#path-3"></use>
-                        </g>
-                        <g id="Shape">
-                            <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
-                            <use fill-opacity="0.87" fill="#000000" xlink:href="#path-5"></use>
-                        </g>
+        <g id="FULL-SCREEN---1366x768-(11-inch-2015)" transform="translate(-551, -271)">
+            <g id="Logo" transform="translate(559.7249, 281.35)">
+                <g id="Text" transform="translate(40.9634, 69.8832)" fill-rule="nonzero">
+                    <g id="Path">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <use fill-opacity="0.87" fill="#000000" xlink:href="#path-1"></use>
                     </g>
-                    <g id="Flower" fill-rule="nonzero">
-                        <g id="Path">
-                            <use fill="black" fill-opacity="1" filter="url(#filter-8)" xlink:href="#path-7"></use>
-                            <use fill-opacity="0.87" fill="#000000" xlink:href="#path-7"></use>
-                        </g>
-                        <g id="Path">
-                            <use fill="black" fill-opacity="1" filter="url(#filter-10)" xlink:href="#path-9"></use>
-                            <use fill-opacity="0.87" fill="#000000" xlink:href="#path-9"></use>
-                        </g>
-                        <g id="Path">
-                            <use fill="black" fill-opacity="1" filter="url(#filter-12)" xlink:href="#path-11"></use>
-                            <use fill-opacity="0.87" fill="#000000" xlink:href="#path-11"></use>
-                        </g>
-                        <g id="Path">
-                            <use fill="black" fill-opacity="1" filter="url(#filter-14)" xlink:href="#path-13"></use>
-                            <use fill-opacity="0.87" fill="#000000" xlink:href="#path-13"></use>
-                        </g>
+                    <g id="Path">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                        <use fill-opacity="0.87" fill="#000000" xlink:href="#path-3"></use>
                     </g>
-                    <g id="ITIS" transform="translate(229.3337, 0.2484)">
-                        <g id="Path">
-                            <use fill="black" fill-opacity="1" filter="url(#filter-16)" xlink:href="#path-15"></use>
-                            <use fill-opacity="0.87" fill="#000000" fill-rule="evenodd" xlink:href="#path-15"></use>
-                        </g>
-                        <g id="Path">
-                            <use fill="black" fill-opacity="1" filter="url(#filter-18)" xlink:href="#path-17"></use>
-                            <use fill-opacity="0.87" fill="#000000" fill-rule="evenodd" xlink:href="#path-17"></use>
-                        </g>
-                        <g id="Path">
-                            <use fill="black" fill-opacity="1" filter="url(#filter-20)" xlink:href="#path-19"></use>
-                            <use fill-opacity="0.87" fill="#000000" fill-rule="evenodd" xlink:href="#path-19"></use>
-                        </g>
-                        <g id="Path" fill-rule="nonzero">
-                            <use fill="black" fill-opacity="1" filter="url(#filter-22)" xlink:href="#path-21"></use>
-                            <use fill-opacity="0.87" fill="#000000" xlink:href="#path-21"></use>
-                        </g>
+                    <g id="Shape">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                        <use fill-opacity="0.87" fill="#000000" xlink:href="#path-5"></use>
+                    </g>
+                </g>
+                <g id="Flower" fill-rule="nonzero">
+                    <g id="Path">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-8)" xlink:href="#path-7"></use>
+                        <use fill-opacity="0.87" fill="#000000" xlink:href="#path-7"></use>
+                    </g>
+                    <g id="Path">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-10)" xlink:href="#path-9"></use>
+                        <use fill-opacity="0.87" fill="#000000" xlink:href="#path-9"></use>
+                    </g>
+                    <g id="Path">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-12)" xlink:href="#path-11"></use>
+                        <use fill-opacity="0.87" fill="#000000" xlink:href="#path-11"></use>
+                    </g>
+                    <g id="Path">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-14)" xlink:href="#path-13"></use>
+                        <use fill-opacity="0.87" fill="#000000" xlink:href="#path-13"></use>
+                    </g>
+                </g>
+                <g id="ITIS" transform="translate(229.3337, 0.2484)">
+                    <g id="Path">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-16)" xlink:href="#path-15"></use>
+                        <use fill-opacity="0.87" fill="#000000" fill-rule="evenodd" xlink:href="#path-15"></use>
+                    </g>
+                    <g id="Path">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-18)" xlink:href="#path-17"></use>
+                        <use fill-opacity="0.87" fill="#000000" fill-rule="evenodd" xlink:href="#path-17"></use>
+                    </g>
+                    <g id="Path">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-20)" xlink:href="#path-19"></use>
+                        <use fill-opacity="0.87" fill="#000000" fill-rule="evenodd" xlink:href="#path-19"></use>
+                    </g>
+                    <g id="Path" fill-rule="nonzero">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-22)" xlink:href="#path-21"></use>
+                        <use fill-opacity="0.87" fill="#000000" xlink:href="#path-21"></use>
                     </g>
                 </g>
             </g>
