@@ -1,1 +1,0 @@
-FSL is a comprehensive library of analysis tools for FMRI, MRI and DTI brain imaging data, created by the Analysis Group, FMRIB, Oxford, UK. See https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/FSL for more information
