@@ -14,6 +14,6 @@ This service also provides analysis and visualization packages including [NumPy]
 [Matplotlib](https://matplotlib.org/), [Plotly](https://plotly.com/python/) and
 [SciPy](https://www.scipy.org/) packages (see [requirements.in](https://github.com/ITISFoundation/jupyter-neuron/blob/main/kernels/python-neuron/requirements.in)).
 
-- Interface: interactive notebook with an IPython kernel
-- Best for: interactive model building, parameter sweeps, optimization
-- Outputs: .ipynb notebooks, figures, PDF/CSV files etc. 
+- **Interface**: interactive notebook with an IPython kernel
+- **Best for**: interactive model building, parameter sweeps, optimization
+- **Outputs**: .ipynb notebooks, figures, PDF/CSV files etc. 
