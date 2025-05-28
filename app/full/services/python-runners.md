@@ -1,4 +1,4 @@
-# sim4life python runner
+# Sim4Life Python Runner
 
 Sim4Life features Python, a powerful scientific scripting language offering a vast range of 3rd-party programs. The Sim4Life Python application programming interface (API) can be used to parameterize and automatize tasks, e.g., geometric modeling, simulation setup, or postprocessing, and to build custom tools and independent applications.
 
