@@ -1,1 +1,3 @@
-meta-modeling functionality in an interactive, user-friendly, guided step-by-step way
+Uncertainty Quantification (UQ) represents a transformative approach to understanding and quantifying the reliability of simulation results under parameter uncertainty. This Model Intelligence capability enables engineers and researchers to efficiently demonstrate the statistical reliability of their designs across physiologically relevant parameter ranges - a critical requirement for regulatory submission and clinical translation of complex systems.
+
+NOTE: Model Intelligence HyperTools are currently in Preview mode. Full-featured access, including advanced sampling strategies and extended analysis capabilities, is available upon request through support channels. 
